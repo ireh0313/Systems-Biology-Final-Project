@@ -1,6 +1,0 @@
-pandas
-openpyxl
-numpy
-matplotlib
-pillow
-
