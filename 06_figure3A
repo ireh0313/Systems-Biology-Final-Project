@@ -1,1 +1,67 @@
+# 05. Figure 3A
+
+Figure 2D is a set of PWM sequence logos for seven CREB/ATF-family transcription factors.
+
+This plot uses Table S2 PWM/PSSM values only:
+
+```text
+~/cre_repro/data/1-s2.0-S2589004223028249-mmc3.xlsx
+```
+
+It does not use MPRA expression data and does not require transcpp fitting.
+
+## Preparation
+
+Export the Excel sheet first:
+
+```bash
+python /path/to/repo/common/export_tables.py
+```
+
+If the exported PWM CSV has a Korean sheet-name filename, copy or rename it to:
+
+```text
+~/cre_repro/work/csv/pwms.csv
+```
+
+Example:
+
+```bash
+cp ~/cre_repro/work/csv/pwms__시트1.csv ~/cre_repro/work/csv/pwms.csv
+```
+
+## Plot
+
+```bash
+python plot_fig2d_sequence_logos.py
+```
+
+## Method
+
+The supplementary Table S2 values are treated as base-2 log-odds PSSM values. With equal background base frequency:
+
+```text
+weight(base) = 0.25 * 2^(PSSM score)
+P(base) = weight(base) / sum(weights at that position)
+entropy = -sum(P(base) * log2(P(base)))
+information = 2 - entropy
+letter height = P(base) * information
+```
+
+Colors:
+
+```text
+A green
+C blue
+G orange
+T red
+```
+
+TF order:
+
+```text
+CREB1, CREB3, CREB5, CREM, ATF1, ATF4, ATF7
+```
+
+Note: The CREB3 logo produced from the supplement matched the downloaded CIS-BP/Jolma M03042 motif, while the paper figure visually appeared closer to another CREB3 motif variant. This difference affects the visual CREB3 logo but not the model XML that used the supplementary PWM values.
 
