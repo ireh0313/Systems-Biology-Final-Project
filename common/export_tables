@@ -1,0 +1,24 @@
+from pathlib import Path
+import pandas as pd
+
+data = Path.home() / "cre_repro" / "data"
+out = Path.home() / "cre_repro" / "work" / "csv"
+out.mkdir(parents=True, exist_ok=True)
+
+files = {
+    "params": data / "1-s2.0-S2589004223028249-mmc2.xlsx",
+    "pwms": data / "1-s2.0-S2589004223028249-mmc3.xlsx",
+    "seqs": data / "1-s2.0-S2589004223028249-mmc4.xlsx",
+}
+
+for label, path in files.items():
+    xls = pd.ExcelFile(path)
+    print(f"\n{label}: {path.name}")
+    print("sheets:", xls.sheet_names)
+
+    for sheet in xls.sheet_names:
+        df = pd.read_excel(path, sheet_name=sheet, header=None)
+        safe_sheet = sheet.replace("/", "_").replace(" ", "_")
+        csv_path = out / f"{label}__{safe_sheet}.csv"
+        df.to_csv(csv_path, index=False, header=False)
+        print(f"  wrote {csv_path} shape={df.shape}")
