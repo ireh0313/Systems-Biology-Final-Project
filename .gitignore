@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+*.log
+*.prolix
+*.o
+*.g++.o
+transcpp
+unfold
+scramble
+work/
+results/
+data/*.xlsx
+data/*Zone.Identifier
+
