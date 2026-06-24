@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="520" viewBox="0 0 920 520">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="72" y="38" font-family="Arial" font-size="22" font-weight="700">Corrected Fig. 4/5 4TF fit: real labels vs scrambled labels</text>
+<text x="72" y="64" font-family="Arial" font-size="13" fill="#444">Competition=false, SelfCompetition=true; 5 real-seed fits and 10 scrambled-label controls</text>
+<line x1="72.0" y1="428.2" x2="848.0" y2="428.2" stroke="#d8d8d8" stroke-width="1"/>
+<text x="42" y="432.2" font-family="Arial" font-size="12" fill="#555">-0.6</text>
+<line x1="72.0" y1="357.0" x2="848.0" y2="357.0" stroke="#d8d8d8" stroke-width="1"/>
+<text x="42" y="361.0" font-family="Arial" font-size="12" fill="#555">-0.3</text>
+<line x1="72.0" y1="285.8" x2="848.0" y2="285.8" stroke="#d8d8d8" stroke-width="1"/>
+<text x="42" y="289.8" font-family="Arial" font-size="12" fill="#555">0.0</text>
+<line x1="72.0" y1="214.5" x2="848.0" y2="214.5" stroke="#d8d8d8" stroke-width="1"/>
+<text x="42" y="218.5" font-family="Arial" font-size="12" fill="#555">0.3</text>
+<line x1="72.0" y1="143.2" x2="848.0" y2="143.2" stroke="#d8d8d8" stroke-width="1"/>
+<text x="42" y="147.2" font-family="Arial" font-size="12" fill="#555">0.6</text>
+<line x1="72.0" y1="72.0" x2="848.0" y2="72.0" stroke="#d8d8d8" stroke-width="1"/>
+<text x="42" y="76.0" font-family="Arial" font-size="12" fill="#555">0.9</text>
+<line x1="72.0" y1="285.8" x2="848.0" y2="285.8" stroke="#777" stroke-width="1.4" stroke-dasharray="5,5"/>
+<text x="30" y="262.0" transform="rotate(-90 30 262.0)" font-family="Arial" font-size="13" fill="#333">Pearson r vs observed single-hit activity</text>
+<circle cx="264.8" cy="88.0" r="7" fill="#1f77b4" opacity="0.92"/>
+<circle cx="284.8" cy="87.6" r="7" fill="#1f77b4" opacity="0.92"/>
+<circle cx="304.8" cy="92.3" r="7" fill="#1f77b4" opacity="0.92"/>
+<circle cx="324.8" cy="89.4" r="7" fill="#1f77b4" opacity="0.92"/>
+<circle cx="344.8" cy="88.1" r="7" fill="#1f77b4" opacity="0.92"/>
+<circle cx="525.2" cy="235.1" r="7" fill="#c44e52" opacity="0.88"/>
+<circle cx="545.2" cy="294.4" r="7" fill="#c44e52" opacity="0.88"/>
+<circle cx="565.2" cy="351.6" r="7" fill="#c44e52" opacity="0.88"/>
+<circle cx="585.2" cy="424.2" r="7" fill="#c44e52" opacity="0.88"/>
+<circle cx="605.2" cy="352.5" r="7" fill="#c44e52" opacity="0.88"/>
+<circle cx="625.2" cy="288.8" r="7" fill="#c44e52" opacity="0.88"/>
+<circle cx="645.2" cy="276.1" r="7" fill="#c44e52" opacity="0.88"/>
+<circle cx="665.2" cy="321.5" r="7" fill="#c44e52" opacity="0.88"/>
+<circle cx="685.2" cy="219.3" r="7" fill="#c44e52" opacity="0.88"/>
+<circle cx="705.2" cy="316.1" r="7" fill="#c44e52" opacity="0.88"/>
+<line x1="224.8" y1="89.1" x2="384.8" y2="89.1" stroke="#1f77b4" stroke-width="4"/>
+<line x1="505.2" y1="307.9" x2="725.2" y2="307.9" stroke="#c44e52" stroke-width="4"/>
+<text x="304.8" y="442" font-family="Arial" font-size="16" text-anchor="middle" font-weight="700" fill="#222">Real labels</text>
+<text x="304.8" y="466" font-family="Arial" font-size="13" text-anchor="middle" fill="#444">n=5, mean=0.828, median=0.832</text>
+<text x="304.8" y="486" font-family="Arial" font-size="13" text-anchor="middle" fill="#444">range 0.815 to 0.834</text>
+<text x="615.2" y="442" font-family="Arial" font-size="16" text-anchor="middle" font-weight="700" fill="#222">Scrambled labels</text>
+<text x="615.2" y="466" font-family="Arial" font-size="13" text-anchor="middle" fill="#444">n=10, mean=-0.093, median=-0.082</text>
+<text x="615.2" y="486" font-family="Arial" font-size="13" text-anchor="middle" fill="#444">range -0.583 to 0.280</text>
+</svg>

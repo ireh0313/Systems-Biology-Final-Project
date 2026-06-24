@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2440" height="1560" viewBox="0 0 610 390">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="60.00" y="14.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="start" fill="#111111">L</text>
+<rect x="102.00" y="38.00" width="190.00" height="70.00" fill="#ffffff" stroke="none" stroke-width="1.0"/>
+<rect x="102.00" y="126.00" width="190.00" height="182.00" fill="#ffffff" stroke="none" stroke-width="1.0"/>
+<line x1="115.57" y1="38.00" x2="115.57" y2="108.00" stroke="#E6E6E6" stroke-width="0.9"/>
+<line x1="115.57" y1="126.00" x2="115.57" y2="308.00" stroke="#E6E6E6" stroke-width="0.9"/>
+<line x1="115.57" y1="308.00" x2="115.57" y2="314.00" stroke="#222222" stroke-width="1.1"/>
+<text x="115.57" y="336.00" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#4c4c4c">2</text>
+<line x1="169.86" y1="38.00" x2="169.86" y2="108.00" stroke="#E6E6E6" stroke-width="0.9"/>
+<line x1="169.86" y1="126.00" x2="169.86" y2="308.00" stroke="#E6E6E6" stroke-width="0.9"/>
+<line x1="169.86" y1="308.00" x2="169.86" y2="314.00" stroke="#222222" stroke-width="1.1"/>
+<text x="169.86" y="336.00" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#4c4c4c">3</text>
+<line x1="224.14" y1="38.00" x2="224.14" y2="108.00" stroke="#E6E6E6" stroke-width="0.9"/>
+<line x1="224.14" y1="126.00" x2="224.14" y2="308.00" stroke="#E6E6E6" stroke-width="0.9"/>
+<line x1="224.14" y1="308.00" x2="224.14" y2="314.00" stroke="#222222" stroke-width="1.1"/>
+<text x="224.14" y="336.00" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#4c4c4c">4</text>
+<line x1="278.43" y1="38.00" x2="278.43" y2="108.00" stroke="#E6E6E6" stroke-width="0.9"/>
+<line x1="278.43" y1="126.00" x2="278.43" y2="308.00" stroke="#E6E6E6" stroke-width="0.9"/>
+<line x1="278.43" y1="308.00" x2="278.43" y2="314.00" stroke="#222222" stroke-width="1.1"/>
+<text x="278.43" y="336.00" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#4c4c4c">5</text>
+<line x1="102.00" y1="100.22" x2="292.00" y2="100.22" stroke="#E6E6E6" stroke-width="1.0"/>
+<text x="92.00" y="106.22" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="end" fill="#4c4c4c">0.7</text>
+<line x1="102.00" y1="61.33" x2="292.00" y2="61.33" stroke="#E6E6E6" stroke-width="1.0"/>
+<text x="92.00" y="67.33" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="end" fill="#4c4c4c">0.8</text>
+<line x1="102.00" y1="308.00" x2="292.00" y2="308.00" stroke="#E6E6E6" stroke-width="1.0"/>
+<text x="92.00" y="314.00" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="end" fill="#4c4c4c">0.0</text>
+<line x1="102.00" y1="274.91" x2="292.00" y2="274.91" stroke="#E6E6E6" stroke-width="1.0"/>
+<text x="92.00" y="280.91" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="end" fill="#4c4c4c">0.1</text>
+<line x1="102.00" y1="241.82" x2="292.00" y2="241.82" stroke="#E6E6E6" stroke-width="1.0"/>
+<text x="92.00" y="247.82" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="end" fill="#4c4c4c">0.2</text>
+<line x1="102.00" y1="208.73" x2="292.00" y2="208.73" stroke="#E6E6E6" stroke-width="1.0"/>
+<text x="92.00" y="214.73" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="end" fill="#4c4c4c">0.3</text>
+<line x1="102.00" y1="175.64" x2="292.00" y2="175.64" stroke="#E6E6E6" stroke-width="1.0"/>
+<text x="92.00" y="181.64" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="end" fill="#4c4c4c">0.4</text>
+<line x1="102.00" y1="142.55" x2="292.00" y2="142.55" stroke="#E6E6E6" stroke-width="1.0"/>
+<text x="92.00" y="148.55" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="end" fill="#4c4c4c">0.5</text>
+<line x1="102.00" y1="38.00" x2="102.00" y2="108.00" stroke="#222222" stroke-width="1.2"/>
+<line x1="102.00" y1="108.00" x2="292.00" y2="108.00" stroke="#222222" stroke-width="1.2"/>
+<line x1="102.00" y1="126.00" x2="102.00" y2="308.00" stroke="#222222" stroke-width="1.2"/>
+<line x1="102.00" y1="308.00" x2="292.00" y2="308.00" stroke="#222222" stroke-width="1.2"/>
+<line x1="94.00" y1="105.00" x2="110.00" y2="93.00" stroke="#222222" stroke-width="1.2"/>
+<line x1="94.00" y1="141.00" x2="110.00" y2="129.00" stroke="#222222" stroke-width="1.2"/>
+<line x1="224.14" y1="51.78" x2="224.14" y2="48.99" stroke="#F8766D" stroke-width="1.8"/>
+<line x1="217.14" y1="51.78" x2="231.14" y2="51.78" stroke="#F8766D" stroke-width="1.8"/>
+<line x1="217.14" y1="48.99" x2="231.14" y2="48.99" stroke="#F8766D" stroke-width="1.8"/>
+<circle cx="224.14" cy="50.38" r="4.6" fill="#F8766D" stroke="#F8766D" stroke-width="1"/>
+<path d="M 219.14 306.00 L 229.14 306.00 L 224.14 316.00 Z" fill="#00BFC4" opacity="0.95"/>
+<line x1="224.14" y1="290.00" x2="224.14" y2="304.00" stroke="#00BFC4" stroke-width="1.5"/>
+<text x="224.14" y="304.00" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="400" text-anchor="middle" fill="#00BFC4">-0.09</text>
+<text x="197.00" y="362.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" text-anchor="middle" fill="#111111">Number of TFs</text>
+<text x="34.00" y="173.00" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="middle" fill="#111111" transform="rotate(-90 34.00 173.00)">Pearson's R</text>
+<line x1="120.00" y1="254.00" x2="138.00" y2="254.00" stroke="#F8766D" stroke-width="2.2"/>
+<circle cx="129.00" cy="254.00" r="4.2" fill="#F8766D"/>
+<text x="144.00" y="260.00" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="start" fill="#111111">4TF_self real seeds</text>
+<line x1="120.00" y1="278.00" x2="138.00" y2="278.00" stroke="#00BFC4" stroke-width="2.2"/>
+<circle cx="129.00" cy="278.00" r="4.2" fill="#00BFC4"/>
+<text x="144.00" y="284.00" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="start" fill="#111111">scrambled labels</text>
+<text x="310.00" y="14.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="start" fill="#111111">M</text>
+<rect x="352.00" y="38.00" width="190.00" height="70.00" fill="#ffffff" stroke="none" stroke-width="1.0"/>
+<rect x="352.00" y="126.00" width="190.00" height="182.00" fill="#ffffff" stroke="none" stroke-width="1.0"/>
+<line x1="365.57" y1="38.00" x2="365.57" y2="108.00" stroke="#E6E6E6" stroke-width="0.9"/>
+<line x1="365.57" y1="126.00" x2="365.57" y2="308.00" stroke="#E6E6E6" stroke-width="0.9"/>
+<line x1="365.57" y1="308.00" x2="365.57" y2="314.00" stroke="#222222" stroke-width="1.1"/>
+<text x="365.57" y="336.00" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#4c4c4c">2</text>
+<line x1="419.86" y1="38.00" x2="419.86" y2="108.00" stroke="#E6E6E6" stroke-width="0.9"/>
+<line x1="419.86" y1="126.00" x2="419.86" y2="308.00" stroke="#E6E6E6" stroke-width="0.9"/>
+<line x1="419.86" y1="308.00" x2="419.86" y2="314.00" stroke="#222222" stroke-width="1.1"/>
+<text x="419.86" y="336.00" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#4c4c4c">3</text>
+<line x1="474.14" y1="38.00" x2="474.14" y2="108.00" stroke="#E6E6E6" stroke-width="0.9"/>
+<line x1="474.14" y1="126.00" x2="474.14" y2="308.00" stroke="#E6E6E6" stroke-width="0.9"/>
+<line x1="474.14" y1="308.00" x2="474.14" y2="314.00" stroke="#222222" stroke-width="1.1"/>
+<text x="474.14" y="336.00" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#4c4c4c">4</text>
+<line x1="528.43" y1="38.00" x2="528.43" y2="108.00" stroke="#E6E6E6" stroke-width="0.9"/>
+<line x1="528.43" y1="126.00" x2="528.43" y2="308.00" stroke="#E6E6E6" stroke-width="0.9"/>
+<line x1="528.43" y1="308.00" x2="528.43" y2="314.00" stroke="#222222" stroke-width="1.1"/>
+<text x="528.43" y="336.00" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#4c4c4c">5</text>
+<line x1="352.00" y1="100.22" x2="542.00" y2="100.22" stroke="#E6E6E6" stroke-width="1.0"/>
+<line x1="352.00" y1="61.33" x2="542.00" y2="61.33" stroke="#E6E6E6" stroke-width="1.0"/>
+<line x1="352.00" y1="308.00" x2="542.00" y2="308.00" stroke="#E6E6E6" stroke-width="1.0"/>
+<line x1="352.00" y1="274.91" x2="542.00" y2="274.91" stroke="#E6E6E6" stroke-width="1.0"/>
+<line x1="352.00" y1="241.82" x2="542.00" y2="241.82" stroke="#E6E6E6" stroke-width="1.0"/>
+<line x1="352.00" y1="208.73" x2="542.00" y2="208.73" stroke="#E6E6E6" stroke-width="1.0"/>
+<line x1="352.00" y1="175.64" x2="542.00" y2="175.64" stroke="#E6E6E6" stroke-width="1.0"/>
+<line x1="352.00" y1="142.55" x2="542.00" y2="142.55" stroke="#E6E6E6" stroke-width="1.0"/>
+<line x1="352.00" y1="38.00" x2="352.00" y2="108.00" stroke="#222222" stroke-width="1.2"/>
+<line x1="352.00" y1="108.00" x2="542.00" y2="108.00" stroke="#222222" stroke-width="1.2"/>
+<line x1="352.00" y1="126.00" x2="352.00" y2="308.00" stroke="#222222" stroke-width="1.2"/>
+<line x1="352.00" y1="308.00" x2="542.00" y2="308.00" stroke="#222222" stroke-width="1.2"/>
+<line x1="344.00" y1="105.00" x2="360.00" y2="93.00" stroke="#222222" stroke-width="1.2"/>
+<line x1="344.00" y1="141.00" x2="360.00" y2="129.00" stroke="#222222" stroke-width="1.2"/>
+<line x1="474.14" y1="87.60" x2="474.14" y2="80.60" stroke="#F8766D" stroke-width="1.8"/>
+<line x1="467.14" y1="87.60" x2="481.14" y2="87.60" stroke="#F8766D" stroke-width="1.8"/>
+<line x1="467.14" y1="80.60" x2="481.14" y2="80.60" stroke="#F8766D" stroke-width="1.8"/>
+<circle cx="474.14" cy="84.10" r="4.6" fill="#F8766D" stroke="#F8766D" stroke-width="1"/>
+<path d="M 469.14 306.00 L 479.14 306.00 L 474.14 316.00 Z" fill="#00BFC4" opacity="0.95"/>
+<line x1="474.14" y1="290.00" x2="474.14" y2="304.00" stroke="#00BFC4" stroke-width="1.5"/>
+<text x="474.14" y="304.00" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="400" text-anchor="middle" fill="#00BFC4">-0.09</text>
+<text x="447.00" y="362.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" text-anchor="middle" fill="#111111">Number of TFs</text>
+</svg>

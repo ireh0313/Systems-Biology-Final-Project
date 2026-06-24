@@ -1,0 +1,15 @@
+metric,value
+representative_seed,4tf_seed0
+seed0_singlehit_r,0.834419
+seed0_fig4j_multihit_r,0.763753
+seed0_fig5_at_r,0.868870
+real_seed_singlehit_mean,0.828158
+real_seed_singlehit_median,0.832280
+real_seed_fig4j_mean,0.741461
+real_seed_fig5_mean,0.868845
+scramble_true_label_r_mean,-0.093439
+scramble_true_label_r_median,-0.082022
+scramble_true_label_r_min,-0.582835
+scramble_true_label_r_max,0.279816
+scramble_repeats,10
+real_seed_repeats,5

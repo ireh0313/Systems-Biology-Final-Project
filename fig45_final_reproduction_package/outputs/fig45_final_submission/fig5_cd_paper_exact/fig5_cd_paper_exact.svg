@@ -1,0 +1,224 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="680" viewBox="0 0 620 680">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="115.00" y="32.00" width="170.00" height="165.00" fill="#FFFFFF" stroke="#222222" stroke-width="1.2" opacity="1.0"/>
+<text x="27.00" y="22.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="start" fill="#111111">C</text>
+<text x="277.00" y="56.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" text-anchor="end" fill="#111111">11A</text>
+<text x="103.00" y="65.00" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="end" fill="#111111">ATF7</text>
+<text x="103.00" y="93.00" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="end" fill="#111111">ATF1</text>
+<text x="103.00" y="121.00" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="end" fill="#111111">CREM</text>
+<rect x="155.80" y="103.00" width="61.20" height="24.00" fill="#49A000" stroke="none" stroke-width="1.0" opacity="0.14838159963464123"/>
+<rect x="155.80" y="103.00" width="61.20" height="24.00" fill="none" stroke="#49A000" stroke-width="2.0" opacity="1.0"/>
+<rect x="169.40" y="103.00" width="61.20" height="24.00" fill="#49A000" stroke="none" stroke-width="1.0" opacity="0.1911364015078524"/>
+<rect x="169.40" y="103.00" width="61.20" height="24.00" fill="none" stroke="#49A000" stroke-width="2.0" opacity="1.0"/>
+<text x="103.00" y="149.00" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="end" fill="#111111">CREB1</text>
+<rect x="162.60" y="131.00" width="54.40" height="24.00" fill="#FF9900" stroke="none" stroke-width="1.0" opacity="0.22349334094670276"/>
+<rect x="162.60" y="131.00" width="54.40" height="24.00" fill="none" stroke="#FF9900" stroke-width="2.0" opacity="1.0"/>
+<rect x="169.40" y="131.00" width="54.40" height="24.00" fill="#FF9900" stroke="none" stroke-width="1.0" opacity="0.3486957551797318"/>
+<rect x="169.40" y="131.00" width="54.40" height="24.00" fill="none" stroke="#FF9900" stroke-width="2.0" opacity="1.0"/>
+<line x1="115.00" y1="181.00" x2="285.00" y2="181.00" stroke="#333333" stroke-width="1.0"/>
+<rect x="189.80" y="173.00" width="54.40" height="16.00" fill="#FF1F2D" stroke="none" stroke-width="1.0" opacity="0.95"/>
+<rect x="187.60" y="171.00" width="4.40" height="20.00" fill="#FFF200" stroke="none" stroke-width="1.0" opacity="0.95"/>
+<line x1="189.80" y1="189.00" x2="166.00" y2="204.00" stroke="#222222" stroke-width="1.0"/>
+<line x1="244.20" y1="189.00" x2="234.00" y2="204.00" stroke="#222222" stroke-width="1.0"/>
+<rect x="148.14" y="206.00" width="103.71" height="20.00" fill="none" stroke="#FF1F2D" stroke-width="1.5" opacity="1.0"/>
+<rect x="149.14" y="206.00" width="12.71" height="20.00" fill="#FFF200" stroke="none" stroke-width="1.0" opacity="0.85"/>
+<text x="117.36" y="221.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">C</text>
+<text x="130.07" y="221.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">A</text>
+<text x="142.79" y="221.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">G</text>
+<text x="155.50" y="221.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">A</text>
+<text x="168.21" y="221.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">G</text>
+<text x="180.93" y="221.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">A</text>
+<text x="193.64" y="221.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">C</text>
+<text x="206.36" y="221.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">G</text>
+<text x="219.07" y="221.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">T</text>
+<text x="231.79" y="221.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">C</text>
+<text x="244.50" y="221.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">A</text>
+<text x="257.21" y="221.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">G</text>
+<text x="269.93" y="221.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">C</text>
+<text x="282.64" y="221.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">T</text>
+<rect x="115.00" y="244.00" width="170.00" height="165.00" fill="#FFFFFF" stroke="#222222" stroke-width="1.2" opacity="1.0"/>
+<text x="277.00" y="268.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" text-anchor="end" fill="#111111">14A</text>
+<text x="103.00" y="277.00" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="end" fill="#111111">ATF7</text>
+<text x="103.00" y="305.00" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="end" fill="#111111">ATF1</text>
+<text x="103.00" y="333.00" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="end" fill="#111111">CREM</text>
+<rect x="155.80" y="315.00" width="61.20" height="24.00" fill="#49A000" stroke="none" stroke-width="1.0" opacity="0.14883796107600844"/>
+<rect x="155.80" y="315.00" width="61.20" height="24.00" fill="none" stroke="#49A000" stroke-width="2.0" opacity="1.0"/>
+<rect x="169.40" y="315.00" width="61.20" height="24.00" fill="#49A000" stroke="none" stroke-width="1.0" opacity="0.14802843064123025"/>
+<rect x="169.40" y="315.00" width="61.20" height="24.00" fill="none" stroke="#49A000" stroke-width="2.0" opacity="1.0"/>
+<text x="103.00" y="361.00" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="end" fill="#111111">CREB1</text>
+<rect x="162.60" y="343.00" width="54.40" height="24.00" fill="#FF9900" stroke="none" stroke-width="1.0" opacity="0.2469461453744357"/>
+<rect x="162.60" y="343.00" width="54.40" height="24.00" fill="none" stroke="#FF9900" stroke-width="2.0" opacity="1.0"/>
+<rect x="169.40" y="343.00" width="54.40" height="24.00" fill="#FF9900" stroke="none" stroke-width="1.0" opacity="0.24620680817682633"/>
+<rect x="169.40" y="343.00" width="54.40" height="24.00" fill="none" stroke="#FF9900" stroke-width="2.0" opacity="1.0"/>
+<line x1="115.00" y1="393.00" x2="285.00" y2="393.00" stroke="#333333" stroke-width="1.0"/>
+<rect x="189.80" y="385.00" width="54.40" height="16.00" fill="#FF1F2D" stroke="none" stroke-width="1.0" opacity="0.95"/>
+<rect x="208.00" y="383.00" width="4.40" height="20.00" fill="#FFF200" stroke="none" stroke-width="1.0" opacity="0.95"/>
+<line x1="189.80" y1="401.00" x2="166.00" y2="416.00" stroke="#222222" stroke-width="1.0"/>
+<line x1="244.20" y1="401.00" x2="234.00" y2="416.00" stroke="#222222" stroke-width="1.0"/>
+<rect x="148.14" y="418.00" width="103.71" height="20.00" fill="none" stroke="#FF1F2D" stroke-width="1.5" opacity="1.0"/>
+<rect x="187.29" y="418.00" width="12.71" height="20.00" fill="#FFF200" stroke="none" stroke-width="1.0" opacity="0.85"/>
+<text x="117.36" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">C</text>
+<text x="130.07" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">A</text>
+<text x="142.79" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">G</text>
+<text x="155.50" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">T</text>
+<text x="168.21" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">G</text>
+<text x="180.93" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">A</text>
+<text x="193.64" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">A</text>
+<text x="206.36" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">G</text>
+<text x="219.07" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">T</text>
+<text x="231.79" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">C</text>
+<text x="244.50" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">A</text>
+<text x="257.21" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">G</text>
+<text x="269.93" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">C</text>
+<text x="282.64" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">T</text>
+<rect x="115.00" y="456.00" width="170.00" height="165.00" fill="#FFFFFF" stroke="#222222" stroke-width="1.2" opacity="1.0"/>
+<text x="277.00" y="480.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" text-anchor="end" fill="#111111">17A</text>
+<text x="103.00" y="489.00" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="end" fill="#111111">ATF7</text>
+<rect x="149.00" y="471.00" width="88.40" height="24.00" fill="#B442FF" stroke="none" stroke-width="1.0" opacity="0.6052268345433989"/>
+<rect x="149.00" y="471.00" width="88.40" height="24.00" fill="none" stroke="#B442FF" stroke-width="2.0" opacity="1.0"/>
+<rect x="149.00" y="471.00" width="88.40" height="24.00" fill="#B442FF" stroke="none" stroke-width="1.0" opacity="0.5745011129186668"/>
+<rect x="149.00" y="471.00" width="88.40" height="24.00" fill="none" stroke="#B442FF" stroke-width="2.0" opacity="1.0"/>
+<text x="103.00" y="517.00" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="end" fill="#111111">ATF1</text>
+<text x="103.00" y="545.00" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="end" fill="#111111">CREM</text>
+<rect x="155.80" y="527.00" width="61.20" height="24.00" fill="#49A000" stroke="none" stroke-width="1.0" opacity="0.1945895493773676"/>
+<rect x="155.80" y="527.00" width="61.20" height="24.00" fill="none" stroke="#49A000" stroke-width="2.0" opacity="1.0"/>
+<rect x="169.40" y="527.00" width="61.20" height="24.00" fill="#49A000" stroke="none" stroke-width="1.0" opacity="0.17204806388582572"/>
+<rect x="169.40" y="527.00" width="61.20" height="24.00" fill="none" stroke="#49A000" stroke-width="2.0" opacity="1.0"/>
+<text x="103.00" y="573.00" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="end" fill="#111111">CREB1</text>
+<rect x="162.60" y="555.00" width="54.40" height="24.00" fill="#FF9900" stroke="none" stroke-width="1.0" opacity="0.3134810386813435"/>
+<rect x="162.60" y="555.00" width="54.40" height="24.00" fill="none" stroke="#FF9900" stroke-width="2.0" opacity="1.0"/>
+<rect x="169.40" y="555.00" width="54.40" height="24.00" fill="#FF9900" stroke="none" stroke-width="1.0" opacity="0.2347367874411141"/>
+<rect x="169.40" y="555.00" width="54.40" height="24.00" fill="none" stroke="#FF9900" stroke-width="2.0" opacity="1.0"/>
+<line x1="115.00" y1="605.00" x2="285.00" y2="605.00" stroke="#333333" stroke-width="1.0"/>
+<rect x="189.80" y="597.00" width="54.40" height="16.00" fill="#FF1F2D" stroke="none" stroke-width="1.0" opacity="0.95"/>
+<rect x="228.40" y="595.00" width="4.40" height="20.00" fill="#FFF200" stroke="none" stroke-width="1.0" opacity="0.95"/>
+<line x1="189.80" y1="613.00" x2="166.00" y2="628.00" stroke="#222222" stroke-width="1.0"/>
+<line x1="244.20" y1="613.00" x2="234.00" y2="628.00" stroke="#222222" stroke-width="1.0"/>
+<rect x="148.14" y="630.00" width="103.71" height="20.00" fill="none" stroke="#FF1F2D" stroke-width="1.5" opacity="1.0"/>
+<rect x="225.43" y="630.00" width="12.71" height="20.00" fill="#FFF200" stroke="none" stroke-width="1.0" opacity="0.85"/>
+<text x="117.36" y="645.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">C</text>
+<text x="130.07" y="645.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">A</text>
+<text x="142.79" y="645.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">G</text>
+<text x="155.50" y="645.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">T</text>
+<text x="168.21" y="645.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">G</text>
+<text x="180.93" y="645.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">A</text>
+<text x="193.64" y="645.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">C</text>
+<text x="206.36" y="645.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">G</text>
+<text x="219.07" y="645.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">T</text>
+<text x="231.79" y="645.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">A</text>
+<text x="244.50" y="645.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">A</text>
+<text x="257.21" y="645.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">G</text>
+<text x="269.93" y="645.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">C</text>
+<text x="282.64" y="645.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">T</text>
+<rect x="405.00" y="32.00" width="170.00" height="165.00" fill="#FFFFFF" stroke="#222222" stroke-width="1.2" opacity="1.0"/>
+<text x="317.00" y="22.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="start" fill="#111111">D</text>
+<text x="567.00" y="56.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" text-anchor="end" fill="#111111">69A</text>
+<text x="393.00" y="65.00" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="end" fill="#111111">ATF7</text>
+<text x="393.00" y="93.00" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="end" fill="#111111">ATF1</text>
+<text x="393.00" y="121.00" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="end" fill="#111111">CREM</text>
+<rect x="405.00" y="103.00" width="56.67" height="24.00" fill="#49A000" stroke="none" stroke-width="1.0" opacity="0.14083728426100078"/>
+<rect x="405.00" y="103.00" width="56.67" height="24.00" fill="none" stroke="#49A000" stroke-width="2.0" opacity="1.0"/>
+<rect x="447.50" y="103.00" width="63.75" height="24.00" fill="#49A000" stroke="none" stroke-width="1.0" opacity="0.1471207356683669"/>
+<rect x="447.50" y="103.00" width="63.75" height="24.00" fill="none" stroke="#49A000" stroke-width="2.0" opacity="1.0"/>
+<rect x="461.67" y="103.00" width="63.75" height="24.00" fill="#49A000" stroke="none" stroke-width="1.0" opacity="0.187839929456607"/>
+<rect x="461.67" y="103.00" width="63.75" height="24.00" fill="none" stroke="#49A000" stroke-width="2.0" opacity="1.0"/>
+<text x="393.00" y="149.00" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="end" fill="#111111">CREB1</text>
+<rect x="461.67" y="131.00" width="56.67" height="24.00" fill="#FF9900" stroke="none" stroke-width="1.0" opacity="0.3318667892396677"/>
+<rect x="461.67" y="131.00" width="56.67" height="24.00" fill="none" stroke="#FF9900" stroke-width="2.0" opacity="1.0"/>
+<line x1="405.00" y1="181.00" x2="575.00" y2="181.00" stroke="#333333" stroke-width="1.0"/>
+<rect x="433.33" y="173.00" width="21.25" height="16.00" fill="#1920D7" stroke="none" stroke-width="1.0" opacity="0.95"/>
+<rect x="482.92" y="173.00" width="56.67" height="16.00" fill="#FF1F2D" stroke="none" stroke-width="1.0" opacity="0.95"/>
+<rect x="480.72" y="171.00" width="4.40" height="20.00" fill="#FFF200" stroke="none" stroke-width="1.0" opacity="0.95"/>
+<line x1="482.92" y1="189.00" x2="456.00" y2="204.00" stroke="#222222" stroke-width="1.0"/>
+<line x1="539.58" y1="189.00" x2="524.00" y2="204.00" stroke="#222222" stroke-width="1.0"/>
+<rect x="438.14" y="206.00" width="103.71" height="20.00" fill="none" stroke="#FF1F2D" stroke-width="1.5" opacity="1.0"/>
+<rect x="439.14" y="206.00" width="12.71" height="20.00" fill="#FFF200" stroke="none" stroke-width="1.0" opacity="0.85"/>
+<text x="407.36" y="221.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">C</text>
+<text x="420.07" y="221.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">A</text>
+<text x="432.79" y="221.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">T</text>
+<text x="445.50" y="221.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">A</text>
+<text x="458.21" y="221.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">G</text>
+<text x="470.93" y="221.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">A</text>
+<text x="483.64" y="221.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">C</text>
+<text x="496.36" y="221.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">G</text>
+<text x="509.07" y="221.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">T</text>
+<text x="521.79" y="221.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">C</text>
+<text x="534.50" y="221.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">A</text>
+<text x="547.21" y="221.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">A</text>
+<text x="559.93" y="221.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">T</text>
+<text x="572.64" y="221.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">G</text>
+<rect x="405.00" y="244.00" width="170.00" height="165.00" fill="#FFFFFF" stroke="#222222" stroke-width="1.2" opacity="1.0"/>
+<text x="567.00" y="268.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" text-anchor="end" fill="#111111">72A</text>
+<text x="393.00" y="277.00" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="end" fill="#111111">ATF7</text>
+<text x="393.00" y="305.00" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="end" fill="#111111">ATF1</text>
+<rect x="405.00" y="287.00" width="63.75" height="24.00" fill="#20208F" stroke="none" stroke-width="1.0" opacity="0.6894716735721689"/>
+<rect x="405.00" y="287.00" width="63.75" height="24.00" fill="none" stroke="#20208F" stroke-width="2.0" opacity="1.0"/>
+<text x="393.00" y="333.00" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="end" fill="#111111">CREM</text>
+<rect x="447.50" y="315.00" width="63.75" height="24.00" fill="#49A000" stroke="none" stroke-width="1.0" opacity="0.14593088308024268"/>
+<rect x="447.50" y="315.00" width="63.75" height="24.00" fill="none" stroke="#49A000" stroke-width="2.0" opacity="1.0"/>
+<rect x="461.67" y="315.00" width="63.75" height="24.00" fill="#49A000" stroke="none" stroke-width="1.0" opacity="0.14593088308024268"/>
+<rect x="461.67" y="315.00" width="63.75" height="24.00" fill="none" stroke="#49A000" stroke-width="2.0" opacity="1.0"/>
+<text x="393.00" y="361.00" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="end" fill="#111111">CREB1</text>
+<rect x="461.67" y="343.00" width="56.67" height="24.00" fill="#FF9900" stroke="none" stroke-width="1.0" opacity="0.2171022203733046"/>
+<rect x="461.67" y="343.00" width="56.67" height="24.00" fill="none" stroke="#FF9900" stroke-width="2.0" opacity="1.0"/>
+<line x1="405.00" y1="393.00" x2="575.00" y2="393.00" stroke="#333333" stroke-width="1.0"/>
+<rect x="433.33" y="385.00" width="21.25" height="16.00" fill="#1920D7" stroke="none" stroke-width="1.0" opacity="0.95"/>
+<rect x="482.92" y="385.00" width="56.67" height="16.00" fill="#FF1F2D" stroke="none" stroke-width="1.0" opacity="0.95"/>
+<rect x="501.97" y="383.00" width="4.40" height="20.00" fill="#FFF200" stroke="none" stroke-width="1.0" opacity="0.95"/>
+<line x1="482.92" y1="401.00" x2="456.00" y2="416.00" stroke="#222222" stroke-width="1.0"/>
+<line x1="539.58" y1="401.00" x2="524.00" y2="416.00" stroke="#222222" stroke-width="1.0"/>
+<rect x="438.14" y="418.00" width="103.71" height="20.00" fill="none" stroke="#FF1F2D" stroke-width="1.5" opacity="1.0"/>
+<rect x="477.29" y="418.00" width="12.71" height="20.00" fill="#FFF200" stroke="none" stroke-width="1.0" opacity="0.85"/>
+<text x="407.36" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">C</text>
+<text x="420.07" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">A</text>
+<text x="432.79" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">T</text>
+<text x="445.50" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">T</text>
+<text x="458.21" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">G</text>
+<text x="470.93" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">A</text>
+<text x="483.64" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">A</text>
+<text x="496.36" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">G</text>
+<text x="509.07" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">T</text>
+<text x="521.79" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">C</text>
+<text x="534.50" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">A</text>
+<text x="547.21" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">A</text>
+<text x="559.93" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">T</text>
+<text x="572.64" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">G</text>
+<rect x="405.00" y="456.00" width="170.00" height="165.00" fill="#FFFFFF" stroke="#222222" stroke-width="1.2" opacity="1.0"/>
+<text x="567.00" y="480.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" text-anchor="end" fill="#111111">75A</text>
+<text x="393.00" y="489.00" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="end" fill="#111111">ATF7</text>
+<text x="393.00" y="517.00" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="end" fill="#111111">ATF1</text>
+<rect x="405.00" y="499.00" width="63.75" height="24.00" fill="#20208F" stroke="none" stroke-width="1.0" opacity="0.6294840227023162"/>
+<rect x="405.00" y="499.00" width="63.75" height="24.00" fill="none" stroke="#20208F" stroke-width="2.0" opacity="1.0"/>
+<text x="393.00" y="545.00" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="end" fill="#111111">CREM</text>
+<rect x="447.50" y="527.00" width="63.75" height="24.00" fill="#49A000" stroke="none" stroke-width="1.0" opacity="0.19773467725827698"/>
+<rect x="447.50" y="527.00" width="63.75" height="24.00" fill="none" stroke="#49A000" stroke-width="2.0" opacity="1.0"/>
+<rect x="461.67" y="527.00" width="63.75" height="24.00" fill="#49A000" stroke="none" stroke-width="1.0" opacity="0.17731216553578444"/>
+<rect x="461.67" y="527.00" width="63.75" height="24.00" fill="none" stroke="#49A000" stroke-width="2.0" opacity="1.0"/>
+<text x="393.00" y="573.00" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="end" fill="#111111">CREB1</text>
+<rect x="454.58" y="555.00" width="56.67" height="24.00" fill="#FF9900" stroke="none" stroke-width="1.0" opacity="0.29820596174407854"/>
+<rect x="454.58" y="555.00" width="56.67" height="24.00" fill="none" stroke="#FF9900" stroke-width="2.0" opacity="1.0"/>
+<rect x="461.67" y="555.00" width="56.67" height="24.00" fill="#FF9900" stroke="none" stroke-width="1.0" opacity="0.24839097835672236"/>
+<rect x="461.67" y="555.00" width="56.67" height="24.00" fill="none" stroke="#FF9900" stroke-width="2.0" opacity="1.0"/>
+<line x1="405.00" y1="605.00" x2="575.00" y2="605.00" stroke="#333333" stroke-width="1.0"/>
+<rect x="433.33" y="597.00" width="21.25" height="16.00" fill="#1920D7" stroke="none" stroke-width="1.0" opacity="0.95"/>
+<rect x="482.92" y="597.00" width="56.67" height="16.00" fill="#FF1F2D" stroke="none" stroke-width="1.0" opacity="0.95"/>
+<rect x="523.22" y="595.00" width="4.40" height="20.00" fill="#FFF200" stroke="none" stroke-width="1.0" opacity="0.95"/>
+<line x1="482.92" y1="613.00" x2="456.00" y2="628.00" stroke="#222222" stroke-width="1.0"/>
+<line x1="539.58" y1="613.00" x2="524.00" y2="628.00" stroke="#222222" stroke-width="1.0"/>
+<rect x="438.14" y="630.00" width="103.71" height="20.00" fill="none" stroke="#FF1F2D" stroke-width="1.5" opacity="1.0"/>
+<rect x="515.43" y="630.00" width="12.71" height="20.00" fill="#FFF200" stroke="none" stroke-width="1.0" opacity="0.85"/>
+<text x="407.36" y="645.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">C</text>
+<text x="420.07" y="645.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">A</text>
+<text x="432.79" y="645.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">T</text>
+<text x="445.50" y="645.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">T</text>
+<text x="458.21" y="645.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">G</text>
+<text x="470.93" y="645.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">A</text>
+<text x="483.64" y="645.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">C</text>
+<text x="496.36" y="645.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">G</text>
+<text x="509.07" y="645.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">T</text>
+<text x="521.79" y="645.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">A</text>
+<text x="534.50" y="645.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">A</text>
+<text x="547.21" y="645.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">A</text>
+<text x="559.93" y="645.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">T</text>
+<text x="572.64" y="645.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#111111">G</text>
+</svg>
